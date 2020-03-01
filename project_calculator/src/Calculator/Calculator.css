@@ -1,0 +1,61 @@
+.container {
+    min-height: 100vh; 
+    background-color:#6fc4f9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .calculator {
+    width: 24%;
+    background-color: #f5f3f3;
+    border-radius: 15px;
+  }
+
+  .button{
+    border-radius: 50%;
+    background-color:white; 
+    border: none;
+    color: #6fc4f9;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 2.0em;
+    margin: 12px;
+    cursor: pointer;
+    height: 60px;
+    width:60px
+  }
+  .equalicon{
+    flex-basis: 100px;
+    padding: 10px 25px;
+    border-radius: 30px;
+    border-width: 1px;
+    height: 57px;
+    width: 139px;
+    background-color: #6fc4f9;
+    color: #ffff;
+  }
+ 
+  .operators{
+      background-color: #6fc4f9;
+      color: #ffff;
+  }
+  
+  .operatevalues{
+    font-size: 1.7rem;
+    text-align: right; 
+    margin: 15px;
+    margin-top: 40px;
+    color: #6fc4f9;
+  }
+  .resultscreens{
+    font-size: 3.0rem;
+    text-align: right;
+    margin: 15px;
+    color: #6fc4f9;
+  }
+  
+  
+  
+  
