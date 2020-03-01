@@ -1,0 +1,3 @@
+[submodule "calculator"]
+	path = calculator
+	url = git@github.com:Rani4431/Calculator.git
